@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kakum</string>
+    <string name="theme">A Village on Borrowed Time</string>
+    <string name="story">
+        In the embrace of the Kakum Woods, Kakum Village clings to fragile life. It\'s not the rustling leaves or dappled sunlight that keeps the villagers on edge, but the ever-present threat that stirs within the emerald depths. A nameless horror, a ravenous shadow, eyes Kakum Village as its next meal.
+        \n
+        \n
+        The clock ticks, the monster of doom draws ever nearer. It\'s only through the courage of champions, those few who dare face the unknown within the woods, that Kakum Vllage is granted a reprieve. Each victory buys them three more precious days of borrowed light. Three days to gather their children close, to share whispered stories of past heroes, to steal a few more moments of laughter before the shadows fall again. But defeat… defeat carves a day from their dwindling time, a cold reminder that their champion has failed, and fate draws closer.
+        \n
+        \n
+        Will you be the one to answer the forest\'s hungry whispers? Will you step into the unknown, and buy your village more time? The village waits.
+    </string>
+    <string name="app_title">🌲Kakum🌲</string>
+    <string name="play_button">Play Button</string>
+    <string name="play">Play</string>
+</resources>
