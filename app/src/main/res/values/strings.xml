@@ -13,4 +13,8 @@
     <string name="app_title">🌲Kakum🌲</string>
     <string name="play_button">Play Button</string>
     <string name="play">Play</string>
+    <string name="no_tries"># Tries</string>
+    <string name="no_wins"># Wins</string>
+    <string name="no_losses"># Losses</string>
+    <string name="number_of_days_left_til_monster_attacks">Number of days left til monster attacks</string>
 </resources>
